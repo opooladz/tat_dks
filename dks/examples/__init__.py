@@ -14,4 +14,5 @@
 
 """Subpackage for examples."""
 
-from dks.examples import haiku
+# from dks.examples import haiku
+from dks.examples import pytorch
